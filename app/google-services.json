@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861569562658",
+    "firebase_url": "https://atttendance.firebaseio.com",
+    "project_id": "atttendance",
+    "storage_bucket": "atttendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861569562658:android:97320c9966c2dbbc",
+        "android_client_info": {
+          "package_name": "com.example.csf14kij.attendancemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861569562658-2enn2nldcuj703ri47rf7cb7a6i7tmt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wtMG4IkJ2Uan9HmQcmd4f5EOLEACWLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
